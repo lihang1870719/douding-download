@@ -1,0 +1,15 @@
+{
+  "name": "douding-download",
+  "version": "0.0.1",
+  "description": "this is a script for download document from douding",
+  "main": "getFile.js",
+  "scripts": {
+    "test": "node getFile.js"
+  },
+  "author": "lihang",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.0.0",
+    "superagent": "^1.2.0"
+  }
+}
