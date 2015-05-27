@@ -1,10 +1,5 @@
 # 豆丁书房文档下载至PC端
 
-标签（空格分隔）： 豆丁 nodejs
-
----
-
-[TOC]
 
 ---
 最近因为要写一些小论文，有时需要在豆丁网下载文档，但是豆丁上的文档大部分是要钱的，有三种途径，一种是充VIP，但是VIP也是下载的次数也是有限的；另一种是直接充钱（此处土豪直接略过）；最后一种是豆丁出的神器--豆丁书房APP（此处是不是有打广告的嫌疑，囧），但是这种方法是有局限的，只能在手机端去查看，有点麻烦，于是就有了这一片blog的由来，我用nodejs写了一个小脚本，直接下载文档到PC端，下面就是详细的过程。
@@ -12,7 +7,7 @@
 ---
 ## 使用步骤
 1. 由于本插件是基于nodejs的，所以需要配置nodejs的环境
-2. 访问[我的github](https://github.com/lihang1870719/douding-download)clone到本地
+2. 访问[我的github](https://github.com/lihang1870719/douding-download) clone到本地
 3. 执行npm install
 4. 执行node getFile 文档就会自动下载到当前目录
 
